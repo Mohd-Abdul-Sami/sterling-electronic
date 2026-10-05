@@ -1,0 +1,6 @@
+{
+  "name": "Sterling Electronic Sales",
+  "description": "Premium futuristic electronics showroom and high-performance ecommerce platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
